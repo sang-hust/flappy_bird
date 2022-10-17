@@ -12,6 +12,9 @@ public class SpawnerPipes : MonoBehaviour
     void Start()
     {
         StartCoroutine(Spawner());
+        
+        
+        
     }
     
     IEnumerator Spawner()
